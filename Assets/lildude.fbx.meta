@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 36e9f8042c0d95048a3db0710317fd07
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature|arm ik
+    100004: Armature|arm ik.002
+    100006: Armature|belly
+    100008: Armature|chest
+    100010: Armature|elbow.l
+    100012: Armature|elbow.r
+    100014: Armature|head
+    100016: Armature|knee.l
+    100018: Armature|knee.r
+    100020: Armature|leg ik
+    100022: Armature|leg ik.002
+    100024: Armature|lower hand.l
+    100026: Armature|lower hand.r
+    100028: Armature|lower leg.l
+    100030: Armature|lower leg.r
+    100032: Armature|toe.l
+    100034: Armature|toe.r
+    100036: Armature|upper hand.l
+    100038: Armature|upper hand.r
+    100040: Armature|upper leg.l
+    100042: Armature|upper leg.r
+    100044: Camera
+    100046: Cube
+    100048: Cube_MeshPart0
+    100050: Cube_MeshPart1
+    100052: Cube_MeshPart2
+    100054: Lamp
+    100056: //RootNode
+    100058: Plane
+    400000: Armature
+    400002: Armature|arm ik
+    400004: Armature|arm ik.002
+    400006: Armature|belly
+    400008: Armature|chest
+    400010: Armature|elbow.l
+    400012: Armature|elbow.r
+    400014: Armature|head
+    400016: Armature|knee.l
+    400018: Armature|knee.r
+    400020: Armature|leg ik
+    400022: Armature|leg ik.002
+    400024: Armature|lower hand.l
+    400026: Armature|lower hand.r
+    400028: Armature|lower leg.l
+    400030: Armature|lower leg.r
+    400032: Armature|toe.l
+    400034: Armature|toe.r
+    400036: Armature|upper hand.l
+    400038: Armature|upper hand.r
+    400040: Armature|upper leg.l
+    400042: Armature|upper leg.r
+    400044: Camera
+    400046: Cube
+    400048: Cube_MeshPart0
+    400050: Cube_MeshPart1
+    400052: Cube_MeshPart2
+    400054: Lamp
+    400056: //RootNode
+    400058: Plane
+    2300000: Plane
+    3300000: Plane
+    4300000: Plane
+    4300002: Cube_MeshPart0
+    4300004: Cube_MeshPart1
+    4300006: Cube_MeshPart2
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: Cube_MeshPart0
+    13700002: Cube_MeshPart1
+    13700004: Cube_MeshPart2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

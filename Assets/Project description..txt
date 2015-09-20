@@ -1,0 +1,33 @@
+Project Description.
+In our Project Description we will laout a ver basci concerpt for the ame we are to make. As we advance in game dev and scope of production we will also advance in the documentation of these projjects to more full realize the project at the beginning of developmennt .One step at a time
+
+Learning Objjectives:
+Introdunction to asset creation
+Intro to ame screipting
+Intro to GUI elements
+Intro to Input
+Intro t Events
+Intro to Scene Loading
+
+
+Produnction time
+Setup 10
+Assets 45
+Player 30
+Enemy 20 
+Menus 40
+GUI 30
+Build 10
+Review 10
+
+High Concept
+A high speed mouse clicking game  sing the mouse , clickon and destro as many shapes as you can to earn points ad set a high score
+
+Controls
+Use the left mouse button to select on shapes and destro them.
+
+Mockup Assets
+Targets 
+Eplosions
+
+Each assest will need support files.

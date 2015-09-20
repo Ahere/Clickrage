@@ -1,0 +1,84 @@
+Initialize engine version: 5.0.0p2 (b8242d3df8b0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 610M (ID=0x105a)
+    Vendor:   NVIDIA
+    VRAM:     979 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Documents\Click rage\Clickrage_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Documents\Click rage\Clickrage_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Documents\Click rage\Clickrage_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Documents\Click rage\Clickrage_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Documents\Click rage\Clickrage_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Documents\Click rage\Clickrage_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Documents\Click rage\Clickrage_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Documents\Click rage\Clickrage_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  1.212 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Documents\Click rage\Clickrage_Data\Managed\System.Core.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 33.742615 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 186.
+Total: 0.244524 ms (FindLiveObjects: 0.031681 ms CreateObjectMapping: 0.037035 ms MarkObjects: 0.171345 ms  DeleteObjects: 0.004015 ms)
+
+Platform assembly: D:\Documents\Click rage\Clickrage_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: D:\Documents\Click rage\Clickrage_Data\Managed\Boo.Lang.dll (this message is harmless)
+left click was clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+left click was clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+left click was clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+left click was clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+left click was clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+left click was clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+left click was clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+left click was clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+left click was clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+left click was clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+left click was clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+left click was clicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.523407 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 156.
+Total: 0.258357 ms (FindLiveObjects: 0.031234 ms CreateObjectMapping: 0.032573 ms MarkObjects: 0.159297 ms  DeleteObjects: 0.034358 ms)
+
